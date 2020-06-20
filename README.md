@@ -1,5 +1,7 @@
 # Сайт Картины.art - портрет на холсте
 
+[Demo]:http://natalia-malnova.ru/pinturas/
+
 ## Функционал
 
 * Модальные окна
