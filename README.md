@@ -1,6 +1,8 @@
 # Сайт Картины.art - портрет на холсте
 
-http://natalia-malnova.ru/pinturas/
+[Demo]
+[Demo]:http://natalia-malnova.ru/pinturas/
+
 
 ## Функционал
 
